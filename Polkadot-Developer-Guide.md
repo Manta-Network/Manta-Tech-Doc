@@ -6,8 +6,8 @@ Polkadot Developer Guide
 * Parachain achitecture[Link TBD]
 
 ## Parachain Communication
-* Understanding XCMP (Polkadot Crosschain Messaging, 
-   see the [video](https://wiki.polkadot.network/docs/en/learn-crosschain) only)
+* [Understanding XCMP (Polkadot Crosschain Messaging, 
+   see the video only)](https://wiki.polkadot.network/docs/en/learn-crosschain)
 
 ## Reference Implemenations of Parachain Tokens 
 * [Open Runtime Module](https://github.com/open-web3-stack/open-runtime-module-library/tree/master/tokens)
