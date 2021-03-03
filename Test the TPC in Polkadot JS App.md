@@ -3,7 +3,7 @@
 1. Start your relay chain or parachain and use the polkadot JS App to join in
 2. Click the Develop/Javascript and join in the javascript playground
 
-![Test%20the%20TPC%20in%20Polkadot%20JS%20App%20d32944dc55c543a6a15e68632d07431c/Untitled.png](Test%20the%20TPC%20in%20Polkadot%20JS%20App%20d32944dc55c543a6a15e68632d07431c/Untitled.png)
+![image1](https://github.com/Manta-Network/Manta-Tech-Doc/blob/main/TutorialsPicture/Untitled.png)
 
 3.  Use the example called "Make transfer and listen to events" and you can start and listen a transfer. It use the api from pallet "balance".
 
