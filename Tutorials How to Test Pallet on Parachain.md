@@ -99,8 +99,8 @@ parachain-collator \
 
 Change the custom endpoint with ws-port here
 
-![TutorialsPicture/1.png](Tutorials/1.png)
+![https://github.com/Manta-Network/Manta-Tech-Doc/blob/main/TutorialsPicture/1.png](Tutorials/1.png)
 
 Start the Developer/Extrinsic, select a account and we can test nicks here
 
-![TutorialsPicture/2.png](Tutorials/2.png)
+![https://github.com/Manta-Network/Manta-Tech-Doc/blob/main/TutorialsPicture/2.png](Tutorials/2.png)
