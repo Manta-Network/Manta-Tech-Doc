@@ -1,4 +1,4 @@
-# Test the TPC in Polkadot JS App
+# Test in Polkadot JS App
 
 1. Start your relay chain or parachain and use the polkadot JS App to join in
 2. Click the Develop/Javascript and join in the javascript playground
