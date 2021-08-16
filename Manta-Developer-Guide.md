@@ -2,9 +2,8 @@ Manta Developer Guide
 ========================
 
 ## Learn by Reading
-* [Architecture](https://wiki.polkadot.network/docs/learn-architecture)
+* [Architecture](https://wiki.polkadot.network/docs/learn-architecture) (go through the entire basics section would be helpful)
 * [Parachain](https://wiki.polkadot.network/docs/learn-parachains)
-Go through all parts of `Basics` section would be very helpful.
 * [Substrate Dev Docs](https://substrate.dev/docs/en/knowledgebase/runtime/pallets)
 
 ## Learn by Coding
